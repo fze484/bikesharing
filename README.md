@@ -1,9 +1,9 @@
 # bikesharing
 # Overview/purpose of the statistical analysis:
-The goal of this project is to see whether it would make sense to create a bike-sharing program in the city of Des Moines.The purpose of this analysis is to a bike trip benchmark analysis based on a similar business model operated out of New York City. Using Tableau, I created a set of visualizations, aggregated as a story, that summarize different aspects of this business.
+The goal of this project is to see whether it would make sense to create a bike-sharing program in the city of Des Moines. The purpose is to create a bike trip benchmark analysis based on a similar business model operated out of New York City. Using Tableau, I created a set of visualizations, aggregated as a story, that summarize different aspects of this business.
 
 # Data location :
-Raw data can be found following this link:
+Due to data size limits on GitHub (no more than 100 MB), raw .csv data has been uploaded to Google Drive and can be found in the following link:
 https://drive.google.com/drive/folders/1e0X8LM6z_UETeBfeCLL-CNjtcUHuuxuF?usp=sharing
 
 # Results:
@@ -21,25 +21,36 @@ Peak bike utilization occurs on Thursdays at 8 AM, 5PM to 6PM, Mon-Wed, 5-6PM.
 ## Trips by Gender (by Weekday per Hour):
 Peak utilization times are practically the same accross all genders. 
 
+![image_name](images/Trips by Gender (Weekday per Hour)_F.png)
 
+![image_name](images/Trips by Gender (Weekday per Hour)_M.png)
+
+![image_name](images/Trips by Gender (Weekday per Hour)_U.png)
 
 ## Customers:
 Bike sharing services are used more often by subscribers than customers.
 
+![image_name](images/Customers.png)
+
 ## Checkout Times by Gender:
 Men are the largest users of bike sharing services.
+![image_name](images/Checkout Times by Gender.png)
 
 ## Gender Breakdown:
 65% of bike sharing users are men.
 
-## User Trips by Gender by Weekday
+![image_name](images/Gender Breakdown.png)
+
+## User Trips by Gender by Weekday:
 Men utilize the bike sharing service mostly on Thursdays and Fridays.
 
+![image_name](images/User Trips by Gender by Weekday.png)
 
-# Summary:There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+# Summary and other possible visualizations:
 
 ## Summary:
-To summarize, men are the largest users of bike-sharing services- representing 65% of all customers. They should be the target customer group. Peak utilization occurs mostly Mon through Thursday from 5PM to 6PM and on Thursdays at 8 AM for all genders. Subscribers tend to use the service more often, as opposed to non-subscriber groups. Findings can be found in the following link: 
+To summarize, men are the largest users of bike-sharing services- representing 65% of all customers. They should be the target customer group. Peak utilization occurs mostly Mon through Thursday from 5PM to 6PM and on Thursdays at 8 AM for all genders. Subscribers tend to use the service more often, as opposed to non-subscriber groups. Findings/Tableau story can be found in the following link: 
 https://public.tableau.com/app/profile/fatima.zahra.el.mansouri/viz/NYC_Citi_Bike_Analysis_16701887188120/NYCCitiBikeAnalysis?publish=yes
 
 ## Other possible visualizations:
