@@ -2,6 +2,10 @@
 # Overview/purpose of the statistical analysis:
 The goal of this project is to see whether it would make sense to create a bike-sharing program in the city of Des Moines.The purpose of this analysis is to a bike trip benchmark analysis based on a similar business model operated out of New York City. Using Tableau, I created a set of visualizations, aggregated as a story, that summarize different aspects of this business.
 
+# Data location :
+Raw data can be found following this link:
+https://drive.google.com/drive/folders/1e0X8LM6z_UETeBfeCLL-CNjtcUHuuxuF?usp=sharing
+
 # Results:
 ## Checkout Times for Users:
 Most trips last less than 20 mins (5 mins on average).
@@ -16,6 +20,8 @@ Peak bike utilization occurs on Thursdays at 8 AM, 5PM to 6PM, Mon-Wed, 5-6PM.
 
 ## Trips by Gender (by Weekday per Hour):
 Peak utilization times are practically the same accross all genders. 
+
+
 
 ## Customers:
 Bike sharing services are used more often by subscribers than customers.
