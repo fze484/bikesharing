@@ -1,5 +1,5 @@
 # bikesharing
-# Overview/purpose of the statistical analysis:
+# Overview/purpose of the analysis:
 The goal of this project is to see whether it would make sense to create a bike-sharing program in the city of Des Moines. The purpose is to create a bike trip benchmark analysis based on a similar business model operated out of New York City. Using data retrieved online, I created a database using Python's Pandas library, and exported into a csv file, which I then uploaded to Tableau Public, where I created a set of visualizations, aggregated as a story, that summarize different aspects of this business.
 
 # Data location :
